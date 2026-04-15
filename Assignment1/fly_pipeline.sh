@@ -16,7 +16,7 @@ cat $0
 # --- MODULE SETUP ---
 module load Bowtie2/2.5.4-GCC-13.3.0
 module load SAMtools/1.22.1-GCC-13.3.0
-module load bcftools/1.22.1-GCC-13.3.0
+module load BCFtools/1.22.1-GCC-13.3.0
 
 # --- MOVE TO SNIC_TMP ---
 cd $SNIC_TMP
