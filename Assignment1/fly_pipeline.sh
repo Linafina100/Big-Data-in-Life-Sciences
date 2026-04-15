@@ -4,7 +4,7 @@
 #SBATCH -A uppmax2026-1-94
 #SBATCH -p pelle
 #SBATCH -n 1
-#SBATCH -t 02:00:00
+#SBATCH -t 05:00:00
 #SBATCH -J fly_ngs
 
 # --- INSTRUCTOR REQUIRED LINES ---
